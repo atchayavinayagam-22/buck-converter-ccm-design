@@ -60,29 +60,21 @@ Selected Resistance:
 
 Calculated Inductance:
 
-\[
-L_{cal} = 0.711 \, mH
-\]
+Lcal = 0.711 mH
 
 Designed Inductance:
 
-\[
-L_{design} = 7.11 \, mH
-\]
+Ldesign = 7.11 mH
 
 ### Capacitor Design
 
 Calculated Capacitance:
 
-\[
-C_{cal} = 0.058 \, mF
-\]
+Ccal = 0.058 mF
 
 Designed Capacitance:
 
-\[
-C_{design} = 0.58 \, mF
-\]
+Cdesign = 0.58 mF
 
 ## Simulation
 The designed Buck Converter was simulated to verify:
@@ -110,5 +102,4 @@ The designed Buck Converter successfully operates in Continuous Conduction Mode 
 
 ## Author
 **Atchaya V**  
-B.Tech Electrical and Electronics Engineering  
-Amrita Vishwa Vidyapeetham
+ 
