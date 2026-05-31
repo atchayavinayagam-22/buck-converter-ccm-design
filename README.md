@@ -45,18 +45,13 @@ The inductor stores energy when the switch is ON and releases it when the switch
 ## Design Calculations
 
 ### Duty Cycle
-\[
-D = \frac{V_o}{V_{in}} = \frac{8}{12} = 0.66
-\]
+D = Vo / Vin = 8 / 12 = 0.66
+
 
 ### Load Resistance
-\[
-R = \frac{V_o^2}{P_o}
-\]
+R = Vo² / Po
 
-\[
-R = \frac{8^2}{1.5} = 42.66 \Omega
-\]
+R = 8² / 1.5 = 42.66 Ω
 
 Selected Resistance:
 **43 Ω**
