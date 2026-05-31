@@ -96,8 +96,6 @@ The designed Buck Converter was simulated to verify:
 The designed Buck Converter successfully operates in Continuous Conduction Mode (CCM), converting an input voltage range of 12–15 V into a regulated 8 V output. The converter delivers 1.5 W of power while maintaining stable operation with reduced voltage and current ripples, making it suitable for low-power DC applications.
 
 ## Tools Used
-- MATLAB/Simulink (if used)
-- LTspice / Proteus / Multisim (if used)
 - Hardware Components for prototype implementation
 
 ## Author
